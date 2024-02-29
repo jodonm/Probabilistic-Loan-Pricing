@@ -53,4 +53,12 @@ You may adjust the number of iterations here. The model defaults to 10,000 itera
 
 model_data.num_iterations = 10000 #reduce iterations for quicker execution
 ```
+## Results
 
+The model will output a table showing each loan scenerio, their IRR, and a recommendation based on the 5 year treasury yield:
+
+<img width="758" alt="Probabilistic results table" src="https://github.com/jodonm/Probabilistic-Loan-Pricing/assets/155393989/07ebcc17-4a4a-4a72-a622-21fb9ea3636b">
+
+The model will also output a chart to compare the IRR of each loan scenerio
+
+<img width="688" alt="Screenshot 2024-02-29 at 2 12 21 PM" src="https://github.com/jodonm/Probabilistic-Loan-Pricing/assets/155393989/ed35f5c9-b34d-4d73-97ad-a17f8da7403b">
