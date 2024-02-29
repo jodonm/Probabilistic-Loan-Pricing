@@ -1,0 +1,8 @@
+dataclasses
+pandas
+numpy
+numpy_financial
+matplotlib
+tqdm
+random
+yfinance
